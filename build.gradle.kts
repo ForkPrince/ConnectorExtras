@@ -108,17 +108,17 @@ dependencies {
     neoForge("net.neoforged:neoforge:$versionForge")
 
 //    includeProject("reach-entity-attributes")
-    includeProject("rei-bridge")
+    // includeProject("rei-bridge")
     includeProject("emi-bridge")
-    includeProject("energy-bridge")
-    includeProject("terrablender-bridge")
+    // includeProject("energy-bridge")
+    // includeProject("terrablender-bridge")
     includeProject("modmenu-bridge")
 //    includeProject("amecs-api")
 //    includeProject("forgeconfigapiport")
     includeProject("extras-utils")
-    includeProject("kubejs-bridge")
-    includeProject("jei-bridge")
-    includeProject("pehkui-bridge")
+    // includeProject("kubejs-bridge")
+    // includeProject("jei-bridge")
+    // includeProject("pehkui-bridge")
 
     // Misc
     modImplementation("curse.maven:mcpitanlibarch-682213:5531565")
